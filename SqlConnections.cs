@@ -32,7 +32,7 @@ namespace ServiciosServidores
             List<string> servoperativo = new List<string>();
             List<string> servrespaldo = new List<string>();
             cmd.Connection = myConnection;
-            cmd.CommandText = "SELECT nombreServicio,nombreServidor,estatusServicio FROM DevServices ";
+            cmd.CommandText = "Query"; 
           
             try
             {
