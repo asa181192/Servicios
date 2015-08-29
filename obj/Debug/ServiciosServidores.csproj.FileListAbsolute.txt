@@ -1,0 +1,6 @@
+c:\users\asantiago\documents\visual studio 2012\Projects\ServiciosServidores\ServiciosServidores\bin\Debug\ServiciosServidores.exe.config
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\ServiciosServidores\ServiciosServidores\bin\Debug\ServiciosServidores.exe
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\ServiciosServidores\ServiciosServidores\bin\Debug\ServiciosServidores.pdb
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\ServiciosServidores\ServiciosServidores\obj\Debug\ServiciosServidores.csprojResolveAssemblyReference.cache
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\ServiciosServidores\ServiciosServidores\obj\Debug\ServiciosServidores.exe
+C:\Users\asantiago\Documents\Visual Studio 2012\Projects\ServiciosServidores\ServiciosServidores\obj\Debug\ServiciosServidores.pdb
