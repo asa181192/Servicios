@@ -25,9 +25,9 @@ namespace ServiciosServidores
 
                 //Se agrega a un usuario o cuenta que tenga permisos de adminiostrador sobre los servidores . 
 
-                connectoptions.Username = @"Transnetwork\asantiago";
+                connectoptions.Username = @"DOMINIO\usuario";
 
-                connectoptions.Password = "asa181192";
+                connectoptions.Password = "*******";
 
                 Console.WriteLine("\n\n\nNOMBRE DEL SERVIDOR " + nameServer); //For purposes debug 
                  ManagementScope scope = new ManagementScope(@"\\" + nameServer + @"\root\cimv2");
